@@ -1,72 +1,73 @@
-Recovering from the pandemic, the international exchange reboots. We hold XX workshop in Kanazawa-Hakkei Campus of Yokohama City University on January XXth, 2024. This event will have both oral and poster presentations by students from Graduate School of Nanobioscience at Yokohama City University (YCU), and _other school names_. We hope the strong interaction between students from various countries.
+Dear colleagues,
+It is our pleasure to invite you to participate in POSMOL 2025.
+The conference will be held in Matsue, Japan, on August 8-10, 2025, starting with the Welcome Reception on Thursday evening August 7, 2025.
+The POSMOL will continue this year as a joint meeting of the International Workshop on Low-Energy Positron and Positronium Physics and the International Symposium on Electron-Molecule Collisions and Swarms. It is a satellite meeting of the [International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://www.icpeac2025.jp/) to be held in Sapporo, Japan from July 29 to August 5, 2025.
+The POSMOL conference covers a wide range of research topics related to positron, electron, positronium, and antimatter interactions with particles, atoms, molecules, and complex systems, and related subjects. The meeting will continue the tradition of a scientific forum at which a diverse group of scholars from around the world will have an opportunity to share their theoretical and experimental findings, ideas, innovations, and methodologies through formal and informal discussions to advance scientific knowledge and understanding of the fundamental, collisional interactions.
 
-# Registration
+# What's New
 
-| Date | ToDo |
+| Date | News |
 | :--- | :--- |
-| January XXth | Deadline for Registration <br> https://forms.office.com/ |
-| January XXth | Deadline for Submission of Titles <br> https://forms.office.com/ |
+| 2024. 10. 01. | 1st flyer can be downloaded. |
+| 2024. 09. 01. | Website is now open. |
 
 # Program
 
-Wednesday, January XXth, 2024
+Welcome reception: Evening on August 7 (Thu), 2025
+The POSMOL2025 conference will begin in the morning on August 8 (Fri), 2025, and end at noon on August 10 (Sun), 2025.
+Banquet: August 9 (Sat), 2025
 
-| Start | End   | Speaker | Title |
-| :---: | :---: | :------ | :---- |
-| 13:30 | 13:50 | | **Registration** |
-| 13:50 | 14:00 | | **Opening remarks** by Prof. John Doe |
-| 14:00 | 14:30 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 14:30 | 15:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:00 | 15:20 | | **Coffee Break** |
-| 15:20 | 15:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:40 | 16:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 16:00 | 16:30 | | **Poster Session** (by speakers who have odd no.) |
-| 16:30 | 17:00 | | **Poster Session** (by speakers who have even no.) |
-| 17:00 | 17:20 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:20 | 17:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:40 | 17:50 | | **Closing remarks** by Prof. John Doe |
-| 17:50 | 18:00 | | **Award ceremony** by Prof. John Doe |
-| 18:30 | 21:00 | | **Banquet** at _Ristorante Prima Stella_ |
+# Venue
 
-# Invited Speakers
+POSMOL 2025 will be held at Kunibiki Messe (Shimane Prefectural Convention Center) in Matsue, Shimane, Japan. Website: https://www.kunibikimesse.jp/en/
 
-Meet the invited speakers:
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.4204822192482!2d133.06448737577838!3d35.46913897265648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355704f9c4225ce7%3A0x49a62337fdb0fc13!2z44GP44Gr44Gz44GN44Oh44OD44K7!5e0!3m2!1sen!2sen!4v1723410009418!5m2!1sen!2sen" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+## Committees
 
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
+### Local Organizing Committee
 
-# Poster Session
+#### Positron
 
-The presenters with odd numbers will have poster presentations first half, and those with even numbers second half. Each poster board is 90cm x 120cm (width x height).
+- Masanori Tachikawa (Yokohama City Univ.) LOC co-chair
+- Akira Ishida (UTokyo)
+- Yasushi Kino (Tohoku Univ.)
+- Koji Michishio (AIST)
+- Yasuyuki Nagashima (Tokyo Univ. of Science)
+- Yugo Nagata (Tokyo Univ. of Science)
+- Takuma Yamashita (Tohoku Univ.)
 
-| No. | Name | Title |
-| :-- | :--- | :---- |
-|  1 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  2 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  3 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  4 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  5 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  6 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  7 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  8 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  9 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 10 | John Doe | New universality of the nuclear quantum effects in proton science |
+#### Electron
 
-# Access
+- Masashi Kitajima (Tokyo Tech.) LOC co-chair
+- Masamitsu Hoshino (Sophia Univ.)
+- Yasuhiro Sakai (Toho Univ.)
+- Kohki Satoh (Muroran Institute of Tech.)
+- Hajime Tanuma (Tokyo Metropolitan Univ.)
 
-[Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
+### International Advisory Committee
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.591406458434!2d139.5989118!3d35.333358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601843fd143d2285%3A0xa2bfcf87b9aac00d!2sYokohama%20City%20University%20Kanazawa-Hakkei%20Campus!5e0!3m2!1sen!2sjp!4v1704183177009!5m2!1sen!2sjp" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+#### Positron
 
-## Organizers
+- Dermot Green (Queen’s University Belfast) Co-chair
+- Dmitry Fursa (Curtin University, Australia)
+- Takuma Yamashita (Tohoku University, Japan)
+- Alessandra Souza Barbosa (Universidade Federal do Paraná, Brazil)
+- Eva Stenson (Max-Planck-Institut für Plasmaphysik, Germany)
+- Dirk Peter van der Werf (Swansea University, United Kingdom)
 
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
+#### Electron
 
-## Acknowledgment
+- Jimena Gorfinkiel (The Open University) Co-chair
+- Dragana Maric (Institute of Physics Belgrade, Serbia)
+- Roman Čurik (J. Heyrovsky Institute of Physical Chemistry, Czech Republic)
+- Romarly da Costa (Federal University of ABC, Brazil)
+- Janina Kopyra (University of Siedlce, Poland)
+- Paulo Limão-Vieira (Universidade NOVA de Lisboa, Portugal)
+- Sylwia Ptasinska (University of Notre Dame, USA)
+- Kohki Satoh (Muroran Institute of Technology, Japan)
+- Ronald D. White (James Cook University, Australia)
 
-This project was supported by the XXX.
+## Contacts
+
+Contact the local organizers at posmol2025[at)yokohama-cu.ac.jp

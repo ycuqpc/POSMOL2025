@@ -7,7 +7,7 @@ email:
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
 copyright: "© 2024 {author}"
 description: "description description description description description description description description description description"
-# favicon: "./favicon.svg"
+favicon: "./favicon.svg"
 night_mode: "manual"
 brand_color: "#8FC231"
 
