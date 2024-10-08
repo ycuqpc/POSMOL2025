@@ -6,15 +6,15 @@ title: This is draft!
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
 copyright: "© 2024 {author}"
-description: "description description description description description description description description description description"
+description: "POSMOL 2025, Matsue, Japan, XXII International Workshop on Low-Energy Positron and Positronium Physics, XXIV International Symposium on Electron-Molecule Collisions and Swarms"
 favicon: "./favicon.svg"
 night_mode: "manual"
 brand_color: "#8FC231"
 
 defaults:
   home:
-    heading: "International Workshop on Theoretical and Computational Chemistry 2024"
-    subheading: "January XXth, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
+    heading: "POSMOL 2025"
+    subheading: "Matsue, Japan"
     banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
 
 banner:
